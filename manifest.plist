@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://47.95.12.149:8031/APP/GSIT-Subscriber.ipa</string>
+					<string>https://eamstest.eyili.com:29001/ios/yili.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/xujia/gsit/blob/master/image.57x57.png</string>
+					<string>https://eamstest.eyili.com:29001/ios/Icon-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/xujia/gsit/blob/master/image.512x512.png</string>
+					<string>https://eamstest.eyili.com:29001/ios/Icon-512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.zhongshiqianwei.app</string>
+				<string>com.eyili.asset</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>5.9.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>资产预约</string>
+				<string>资产数字化平台</string>
 			</dict>
 		</dict>
 	</array>
